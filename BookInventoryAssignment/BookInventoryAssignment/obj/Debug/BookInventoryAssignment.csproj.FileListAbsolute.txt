@@ -1,0 +1,6 @@
+c:\users\adria\onedrive\documents\visual studio 2015\Projects\BookInventoryAssignment\BookInventoryAssignment\bin\Debug\BookInventoryAssignment.exe.config
+c:\Users\adria\OneDrive\Documents\Visual Studio 2015\Projects\BookInventoryAssignment\BookInventoryAssignment\obj\Debug\BookInventoryAssignment.csprojResolveAssemblyReference.cache
+c:\Users\adria\OneDrive\Documents\Visual Studio 2015\Projects\BookInventoryAssignment\BookInventoryAssignment\bin\Debug\BookInventoryAssignment.exe
+c:\Users\adria\OneDrive\Documents\Visual Studio 2015\Projects\BookInventoryAssignment\BookInventoryAssignment\bin\Debug\BookInventoryAssignment.pdb
+c:\Users\adria\OneDrive\Documents\Visual Studio 2015\Projects\BookInventoryAssignment\BookInventoryAssignment\obj\Debug\BookInventoryAssignment.exe
+c:\Users\adria\OneDrive\Documents\Visual Studio 2015\Projects\BookInventoryAssignment\BookInventoryAssignment\obj\Debug\BookInventoryAssignment.pdb
